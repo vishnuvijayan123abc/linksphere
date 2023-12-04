@@ -1,0 +1,26 @@
+body{
+   background-image: url("images/background.jpg");
+   min-height: 100vh;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+.main{
+    height: 600px;
+}
+.icon{
+    position: absolute;
+    padding: 9px;
+   border: 1px solid black;
+   /* background-color: rgb(210, 206, 206); */
+   width: 35PX;
+
+}
+
+.input {
+    width: 90%;
+   
+    text-align: center;
+}
+         
